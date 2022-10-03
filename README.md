@@ -12,6 +12,8 @@ https://byronurrutia.github.io/comp584_hw2/
 - https://www.apple.com/shop/buy-iphone/iphone-14-pro
 - https://www.youtube.com/watch?v=_G5OuTmuU0Q
 
+## Assignment Guidelines:
+
 Add a button to your email. Explore the different approaches and see which fits best for your design.
 
 - Make sure the button aligns to the center of your page.
