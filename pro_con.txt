@@ -1,0 +1,8 @@
+Pros:
+- en lang attribute added
+- presentation role added to every paragraph element for screen readers
+- text alternatives added for images
+
+Cons:
+- semantic/section heiarchies not really implemented
+- colors not really conditioned to people with visual disabilities
