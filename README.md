@@ -2,6 +2,14 @@
 
 This is a email html repo for my COMP 584 class assignment. It is also a continuation to assignment 1.
 
+###### Hosted Website Link:
+
+#### References for inspiration, image assets, and tutorials:
+
+- https://www.apple.com/
+- https://www.apple.com/shop/buy-iphone/iphone-14-pro
+- https://www.youtube.com/watch?v=_G5OuTmuU0Q
+
 Add a button to your email. Explore the different approaches and see which fits best for your design.
 
 - Make sure the button aligns to the center of your page.
