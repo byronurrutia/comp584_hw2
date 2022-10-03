@@ -33,12 +33,43 @@
       }
       table {
         border-collapse: collapse !important;
+        border-spacing: 0;
       }
       body {
         height: 100% !important;
         margin: 0 !important;
         padding: 0 !important;
         width: 100% !important;
+        background-color: #cccccc;
+      }
+      td {
+        padding: 0;
+      }
+      .wrapper {
+        width: 100%;
+        table-layout: fixed;
+        background-color: #cccccc;
+        padding-bottom: 60px;
+      }
+      .main {
+        background-color: #ffffff;
+        margin: 0 auto;
+        width: 100%;
+        max-width: 600px;
+        border-spacing: 0;
+        font-family: sans-serif;
+        color: #171a1b;
+      }
+      .one-column {
+        text-align: center;
+        font-size: 0;
+      }
+      .one-column .column {
+        width: 100%;
+        max-width: 600px;
+        display: inline-block;
+        vertical-align: top;
+        text-align: center;
       }
 
       /* iOS BLUE LINKS */
@@ -77,16 +108,48 @@
     </style>
   </head>
   <body id="body" style="margin: 0 !important; padding: 0 !important">
-    <!-- Logo image -->
+    <center class="wrapper">
+      <table class="main" width="100%">
+        <!-- Logo image -->
+        <tr>
+          <td>
+            <table width="100%">
+              <tr>
+                <td class="one-column" style="background-color: #000000">
+                  <table class="column">
+                    <tr>
+                      <td>
+                        <a href="https://www.apple.com/" target="_blank"
+                          ><img
+                            src="./assets/logo.png"
+                            alt="apple-logo"
+                            width="30px"
+                            style="
+                              margin-left: 270px;
+                              margin-right: 270px;
+                              margin-top: 20px;
+                              margin-bottom: 50px;
+                            "
+                        /></a>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
 
-    <!-- Headline -->
+        <!-- Banner -->
 
-    <!-- Hero Image -->
+        <!-- Hero Image -->
 
-    <!-- Body copy -->
+        <!-- Body copy -->
 
-    <!-- Button -->
+        <!-- Button -->
 
-    <!-- Footer information: Always include an unsubscribe link! -->
+        <!-- Footer information: Always include an unsubscribe link! -->
+      </table>
+    </center>
   </body>
 </html>
