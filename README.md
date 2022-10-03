@@ -4,6 +4,8 @@ This is a email html repo for my COMP 584 class assignment. It is also a continu
 
 ###### Hosted Website Link:
 
+https://byronurrutia.github.io/comp584_hw2/
+
 #### References for inspiration, image assets, and tutorials:
 
 - https://www.apple.com/
