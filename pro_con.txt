@@ -6,3 +6,4 @@ Pros:
 Cons:
 - semantic/section heiarchies not really implemented
 - colors not really conditioned to people with visual disabilities
+- bad report in google lighthouse "image in the root folder"
